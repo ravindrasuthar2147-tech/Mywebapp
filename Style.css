@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #0077cc;
+}
+button {
+  color: black;
+  background-color: gold;
+}
